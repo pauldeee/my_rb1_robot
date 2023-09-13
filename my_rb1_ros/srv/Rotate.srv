@@ -1,0 +1,3 @@
+int32 degrees   # total dress to rotate robotic
+---
+string result   # string for result
